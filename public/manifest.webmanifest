@@ -1,0 +1,10 @@
+{
+  "name": "Ember",
+  "short_name": "Ember",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1b1534",
+  "theme_color": "#1b1534",
+  "icons": []
+}
